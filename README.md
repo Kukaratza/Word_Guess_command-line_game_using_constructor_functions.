@@ -1,5 +1,5 @@
-#Advanced JavaScript Assignment: Constructor Hangman
-##Overview
+# Advanced JavaScript Assignment: Constructor Hangman
+## Overview
 **This homework assignment is optional.**
 
 *In this week's assignment, you will create a Word Guess command-line game using constructor functions.*
